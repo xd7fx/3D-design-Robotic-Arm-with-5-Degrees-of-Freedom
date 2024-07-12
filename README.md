@@ -24,7 +24,7 @@ This project features a 3D model of a robotic arm with 5 degrees of freedom. Des
 - 3D Printer
 - PLA filament or suitable 3D printing material
 - Basic tools for assembly (screwdriver, screws, etc.)
-- [STL File](https://github.com/xd7fx/3D.design.robot.leg/blob/e90d82ee7f02cbcf1bbf153b3436d0bf28c9736f/robot%203D%20with%20servo%20motors.stl)
+- [STL File](https://github.com/xd7fx/3D-design-Robotic-Arm-with-5-Degrees-of-Freedom/blob/main/Robotic%20arm%20with%205%20degrees%20of%20freedom.stl)
 
 ## Installation
 
